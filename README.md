@@ -15,6 +15,22 @@ OVERVIEW OF THE PROJECT
 
 Project : FLOATING POINT UNIT (FPU) DESIGN
 
+
+![image](https://github.com/user-attachments/assets/abc89ba3-2a84-4c32-afc1-acf5a6439d2b)
+
+
+
+![image](https://github.com/user-attachments/assets/526ae12e-bb6e-42c5-b5b4-841d8a71fca7)
+
+
+![image](https://github.com/user-attachments/assets/aff47803-0b51-4565-a0a7-9045d9da35d3)
+
+
+![image](https://github.com/user-attachments/assets/23dbf874-f2ae-4fc8-bdc4-a30a5e9028d3)
+
+
+
+
 Software:
 
 - Verilog: A hardware description language (HDL) used for designing and testing digital circuits.
